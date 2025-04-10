@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\ECommerceSystem.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9B3452-A37E-48FE-9339-1DE137E62CE7}|ECommerceSystem.Services\\ECommerceSystem.Services.csproj|e:\\projects\\ecommercesystem.web\\ecommercesystem.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9B3452-A37E-48FE-9339-1DE137E62CE7}|ECommerceSystem.Services\\ECommerceSystem.Services.csproj|solutionrelative:ecommercesystem.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD7EE68-82B5-4CE5-AB98-767D991A3972}|ECommerceSystem.Infrastructure\\ECommerceSystem.Infrastructure.csproj|e:\\projects\\ecommercesystem.web\\ecommercesystem.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD7EE68-82B5-4CE5-AB98-767D991A3972}|ECommerceSystem.Infrastructure\\ECommerceSystem.Infrastructure.csproj|solutionrelative:ecommercesystem.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389FF4ED-1DB4-4553-AF17-279438748E34}|ECommerceSystem.Core\\ECommerceSystem.Core.csproj|e:\\projects\\ecommercesystem.web\\ecommercesystem.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389FF4ED-1DB4-4553-AF17-279438748E34}|ECommerceSystem.Core\\ECommerceSystem.Core.csproj|solutionrelative:ecommercesystem.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E2490A-B165-4900-81C8-A3F8D6838685}|ECommerceSystem.Data\\ECommerceSystem.Data.csproj|e:\\projects\\ecommercesystem.web\\ecommercesystem.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E2490A-B165-4900-81C8-A3F8D6838685}|ECommerceSystem.Data\\ECommerceSystem.Data.csproj|solutionrelative:ecommercesystem.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\projects\\ECommerceSystem.Web\\ECommerceSystem.Services\\Class1.cs",
+              "RelativeDocumentMoniker": "ECommerceSystem.Services\\Class1.cs",
+              "ToolTip": "E:\\projects\\ECommerceSystem.Web\\ECommerceSystem.Services\\Class1.cs",
+              "RelativeToolTip": "ECommerceSystem.Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:22:28.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\projects\\ECommerceSystem.Web\\ECommerceSystem.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "ECommerceSystem.Infrastructure\\Class1.cs",
+              "ToolTip": "E:\\projects\\ECommerceSystem.Web\\ECommerceSystem.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "ECommerceSystem.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:21:53.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\projects\\ECommerceSystem.Web\\ECommerceSystem.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "ECommerceSystem.Core\\Class1.cs",
+              "ToolTip": "E:\\projects\\ECommerceSystem.Web\\ECommerceSystem.Core\\Class1.cs",
+              "RelativeToolTip": "ECommerceSystem.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:20:17.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\projects\\ECommerceSystem.Web\\ECommerceSystem.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "ECommerceSystem.Data\\Class1.cs",
+              "ToolTip": "E:\\projects\\ECommerceSystem.Web\\ECommerceSystem.Data\\Class1.cs",
+              "RelativeToolTip": "ECommerceSystem.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:53:20.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
