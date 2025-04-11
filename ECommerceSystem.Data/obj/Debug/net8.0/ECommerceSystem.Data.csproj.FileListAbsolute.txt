@@ -1,0 +1,5 @@
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\obj\Debug\net8.0\ECommerceSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\obj\Debug\net8.0\ECommerceSystem.Data.AssemblyInfoInputs.cache
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\obj\Debug\net8.0\ECommerceSystem.Data.AssemblyInfo.cs
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\obj\Debug\net8.0\ECommerceSystem.Data.csproj.CoreCompileInputs.cache
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\obj\Debug\net8.0\ECommerceSystem.Data.sourcelink.json
