@@ -10,3 +10,11 @@ E:\projects\ECommerceSystem.Web\ECommerceSystem.Services\obj\Debug\net8.0\EComme
 E:\projects\ECommerceSystem.Web\ECommerceSystem.Services\obj\Debug\net8.0\refint\ECommerceSystem.Services.dll
 E:\projects\ECommerceSystem.Web\ECommerceSystem.Services\obj\Debug\net8.0\ECommerceSystem.Services.pdb
 E:\projects\ECommerceSystem.Web\ECommerceSystem.Services\obj\Debug\net8.0\ref\ECommerceSystem.Services.dll
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Services\obj\Debug\net8.0\ECommerceSystem.Services.csproj.AssemblyReference.cache
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Services\bin\Debug\net8.0\ECommerceSystem.Core.dll
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Services\bin\Debug\net8.0\ECommerceSystem.Data.dll
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Services\bin\Debug\net8.0\ECommerceSystem.Infrastructure.dll
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Services\bin\Debug\net8.0\ECommerceSystem.Core.pdb
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Services\bin\Debug\net8.0\ECommerceSystem.Infrastructure.pdb
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Services\bin\Debug\net8.0\ECommerceSystem.Data.pdb
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Services\obj\Debug\net8.0\ECommerc.BE7334D7.Up2Date

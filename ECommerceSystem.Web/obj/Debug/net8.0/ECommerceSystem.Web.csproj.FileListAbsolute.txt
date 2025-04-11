@@ -1,0 +1,9 @@
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\obj\Debug\net8.0\ECommerceSystem.Web.csproj.AssemblyReference.cache
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\obj\Debug\net8.0\ECommerceSystem.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\obj\Debug\net8.0\ECommerceSystem.Web.AssemblyInfoInputs.cache
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\obj\Debug\net8.0\ECommerceSystem.Web.AssemblyInfo.cs
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\obj\Debug\net8.0\ECommerceSystem.Web.csproj.CoreCompileInputs.cache
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\obj\Debug\net8.0\ECommerceSystem.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\obj\Debug\net8.0\ECommerceSystem.Web.RazorAssemblyInfo.cache
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\obj\Debug\net8.0\ECommerceSystem.Web.RazorAssemblyInfo.cs
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\obj\Debug\net8.0\ECommerceSystem.Web.sourcelink.json

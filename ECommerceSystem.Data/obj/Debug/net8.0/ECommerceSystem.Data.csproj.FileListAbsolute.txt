@@ -3,3 +3,16 @@ E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\obj\Debug\net8.0\ECommerceS
 E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\obj\Debug\net8.0\ECommerceSystem.Data.AssemblyInfo.cs
 E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\obj\Debug\net8.0\ECommerceSystem.Data.csproj.CoreCompileInputs.cache
 E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\obj\Debug\net8.0\ECommerceSystem.Data.sourcelink.json
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\obj\Debug\net8.0\ECommerceSystem.Data.csproj.AssemblyReference.cache
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\bin\Debug\net8.0\ECommerceSystem.Data.deps.json
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\bin\Debug\net8.0\ECommerceSystem.Data.runtimeconfig.json
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\bin\Debug\net8.0\ECommerceSystem.Data.dll
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\bin\Debug\net8.0\ECommerceSystem.Data.pdb
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\bin\Debug\net8.0\ECommerceSystem.Core.dll
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\bin\Debug\net8.0\ECommerceSystem.Core.pdb
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\obj\Debug\net8.0\ECommerc.D8A76D73.Up2Date
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\obj\Debug\net8.0\ECommerceSystem.Data.dll
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\obj\Debug\net8.0\refint\ECommerceSystem.Data.dll
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\obj\Debug\net8.0\ECommerceSystem.Data.pdb
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\obj\Debug\net8.0\ECommerceSystem.Data.genruntimeconfig.cache
+E:\projects\ECommerceSystem.Web\ECommerceSystem.Data\obj\Debug\net8.0\ref\ECommerceSystem.Data.dll

@@ -16,6 +16,12 @@ builder.Host.UseSerilog();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+//DbContext register
+builder.Services.AddDbContext<ECommerceDbContext>(options =>
+    options.UseMySql(builder.Configuration.GetConnectionString("ECommerceDB"),
+        new MySqlServerVersion(new Version(8, 0, 41))));
+
+
 //autofac
 builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
 
