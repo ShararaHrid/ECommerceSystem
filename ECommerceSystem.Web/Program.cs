@@ -3,6 +3,8 @@ using Autofac;
 using Autofac.Extensions.DependencyInjection;
 using ECommerceSystem.Core.Interfaces;
 using ECommerceSystem.Infrastructure.Repositories;
+using ECommerceSystem.Data;
+using Microsoft.EntityFrameworkCore;
 
 //serilog
 Log.Logger = new LoggerConfiguration()

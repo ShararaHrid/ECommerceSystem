@@ -1,0 +1,81 @@
+2025-04-13 10:22:01.405 +06:00 [INF] User profile is available. Using 'C:\Users\Hp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-13 10:22:02.502 +06:00 [INF] Now listening on: http://localhost:5071
+2025-04-13 10:22:03.165 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-13 10:22:03.166 +06:00 [INF] Hosting environment: Development
+2025-04-13 10:22:03.166 +06:00 [INF] Content root path: E:\projects\ECommerceSystem.Web\ECommerceSystem.Web
+2025-04-13 10:22:29.097 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/ - null null
+2025-04-13 10:22:32.974 +06:00 [INF] Executing endpoint 'ECommerceSystem.Web.Controllers.HomeController.Index (ECommerceSystem.Web)'
+2025-04-13 10:22:33.158 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ECommerceSystem.Web.Controllers.HomeController (ECommerceSystem.Web).
+2025-04-13 10:22:33.252 +06:00 [INF] Executing ViewResult, running view Index.
+2025-04-13 10:22:34.301 +06:00 [INF] Executed ViewResult - view Index executed in 883.3348ms.
+2025-04-13 10:22:34.322 +06:00 [INF] Executed action ECommerceSystem.Web.Controllers.HomeController.Index (ECommerceSystem.Web) in 1157.1345ms
+2025-04-13 10:22:34.322 +06:00 [INF] Executed endpoint 'ECommerceSystem.Web.Controllers.HomeController.Index (ECommerceSystem.Web)'
+2025-04-13 10:22:34.445 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/ - 200 null text/html; charset=utf-8 6684.5553ms
+2025-04-13 10:22:35.931 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/css/style.css - null null
+2025-04-13 10:22:35.936 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/css/style.css - 404 0 null 7.094ms
+2025-04-13 10:22:35.939 +06:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5071/css/style.css, Response status code: 404
+2025-04-13 10:22:35.944 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/js/coreui.bundle.min.js - null null
+2025-04-13 10:22:35.945 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/js/coreui.bundle.min.js - 404 0 null 1.2047ms
+2025-04-13 10:22:35.946 +06:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5071/js/coreui.bundle.min.js, Response status code: 404
+2025-04-13 10:22:36.210 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/js/scripts.js - null null
+2025-04-13 10:22:36.547 +06:00 [INF] Sending file. Request path: '/js/scripts.js'. Physical path: 'E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\wwwroot\js\scripts.js'
+2025-04-13 10:22:36.549 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/js/scripts.js - 200 976 text/javascript 338.5515ms
+2025-04-13 10:22:37.071 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/assets/demo/chart-bar-demo.js - null null
+2025-04-13 10:22:37.071 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/assets/demo/chart-area-demo.js - null null
+2025-04-13 10:22:37.074 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/js/datatables-simple-demo.js - null null
+2025-04-13 10:22:37.078 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-13 10:22:37.277 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/_vs/browserLink - null null
+2025-04-13 10:22:37.285 +06:00 [INF] Sending file. Request path: '/assets/demo/chart-area-demo.js'. Physical path: 'E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\wwwroot\assets\demo\chart-area-demo.js'
+2025-04-13 10:22:37.286 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/assets/demo/chart-area-demo.js - 200 1530 text/javascript 214.7863ms
+2025-04-13 10:22:37.286 +06:00 [INF] Sending file. Request path: '/js/datatables-simple-demo.js'. Physical path: 'E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\wwwroot\js\datatables-simple-demo.js'
+2025-04-13 10:22:37.287 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/_framework/aspnetcore-browser-refresh.js - 200 16523 application/javascript; charset=utf-8 209.0816ms
+2025-04-13 10:22:37.310 +06:00 [INF] Sending file. Request path: '/assets/demo/chart-bar-demo.js'. Physical path: 'E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\wwwroot\assets\demo\chart-bar-demo.js'
+2025-04-13 10:22:37.312 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/js/datatables-simple-demo.js - 200 312 text/javascript 235.1199ms
+2025-04-13 10:22:37.312 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/assets/demo/chart-bar-demo.js - 200 1112 text/javascript 241.0861ms
+2025-04-13 10:22:37.916 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/_vs/browserLink - 200 null text/javascript; charset=UTF-8 639.2108ms
+2025-04-13 10:22:42.129 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/favicon.ico - null null
+2025-04-13 10:22:42.223 +06:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\wwwroot\favicon.ico'
+2025-04-13 10:22:42.225 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/favicon.ico - 200 5430 image/x-icon 96.0294ms
+2025-04-13 16:29:48.732 +06:00 [INF] User profile is available. Using 'C:\Users\Hp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-13 16:29:49.436 +06:00 [INF] Now listening on: http://localhost:5071
+2025-04-13 16:29:49.589 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-13 16:29:49.589 +06:00 [INF] Hosting environment: Development
+2025-04-13 16:29:49.589 +06:00 [INF] Content root path: E:\projects\ECommerceSystem.Web\ECommerceSystem.Web
+2025-04-13 16:29:52.625 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/ - null null
+2025-04-13 16:29:53.287 +06:00 [INF] Executing endpoint 'ECommerceSystem.Web.Controllers.HomeController.Index (ECommerceSystem.Web)'
+2025-04-13 16:29:53.414 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ECommerceSystem.Web.Controllers.HomeController (ECommerceSystem.Web).
+2025-04-13 16:29:53.454 +06:00 [INF] Executing ViewResult, running view Index.
+2025-04-13 16:29:53.754 +06:00 [INF] Executed ViewResult - view Index executed in 304.4545ms.
+2025-04-13 16:29:53.756 +06:00 [INF] Executed action ECommerceSystem.Web.Controllers.HomeController.Index (ECommerceSystem.Web) in 341.3112ms
+2025-04-13 16:29:53.757 +06:00 [INF] Executed endpoint 'ECommerceSystem.Web.Controllers.HomeController.Index (ECommerceSystem.Web)'
+2025-04-13 16:29:53.774 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/ - 200 null text/html; charset=utf-8 1188.1238ms
+2025-04-13 16:29:55.111 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/coreui/css/coreui.min.css - null null
+2025-04-13 16:29:55.120 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/coreui/css/coreui.min.css - 404 0 null 10.6728ms
+2025-04-13 16:29:55.123 +06:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5071/coreui/css/coreui.min.css, Response status code: 404
+2025-04-13 16:29:55.154 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0 - null null
+2025-04-13 16:29:55.174 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/InventorySystem.styles.css - null null
+2025-04-13 16:29:55.174 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/lib/jquery/dist/jquery.min.js - null null
+2025-04-13 16:29:55.174 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/coreui/js/coreui.bundle.min.js - null null
+2025-04-13 16:29:55.174 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2025-04-13 16:29:55.182 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/InventorySystem.styles.css - 404 0 null 8.0856ms
+2025-04-13 16:29:55.182 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/coreui/js/coreui.bundle.min.js - 404 0 null 8.0452ms
+2025-04-13 16:29:55.182 +06:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5071/coreui/js/coreui.bundle.min.js, Response status code: 404
+2025-04-13 16:29:55.182 +06:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5071/InventorySystem.styles.css, Response status code: 404
+2025-04-13 16:29:55.188 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2025-04-13 16:29:55.196 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-13 16:29:55.202 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/_vs/browserLink - null null
+2025-04-13 16:29:55.222 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/_framework/aspnetcore-browser-refresh.js - 200 16523 application/javascript; charset=utf-8 26.0644ms
+2025-04-13 16:29:55.260 +06:00 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\wwwroot\css\site.css'
+2025-04-13 16:29:55.260 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0 - 200 362 text/css 105.7616ms
+2025-04-13 16:29:55.263 +06:00 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\wwwroot\js\site.js'
+2025-04-13 16:29:55.267 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 231 text/javascript 82.1261ms
+2025-04-13 16:29:55.884 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/_vs/browserLink - 200 null text/javascript; charset=UTF-8 681.594ms
+2025-04-13 16:29:56.236 +06:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2025-04-13 16:29:56.236 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 78468 text/javascript 1062.9492ms
+2025-04-13 16:29:56.319 +06:00 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'E:\projects\ECommerceSystem.Web\ECommerceSystem.Web\wwwroot\lib\jquery\dist\jquery.min.js'
+2025-04-13 16:29:56.319 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/lib/jquery/dist/jquery.min.js - 200 89501 text/javascript 1145.9808ms
+2025-04-13 16:30:12.993 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/Stock - null null
+2025-04-13 16:30:13.040 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/Stock - 404 0 null 46.2842ms
+2025-04-13 16:30:13.040 +06:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5071/Stock, Response status code: 404
+2025-04-13 16:30:15.752 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5071/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-13 16:30:15.752 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5071/_framework/aspnetcore-browser-refresh.js - 200 16523 application/javascript; charset=utf-8 0.7558ms
